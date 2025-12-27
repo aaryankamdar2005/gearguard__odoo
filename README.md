@@ -111,9 +111,9 @@ GearGuard provides a **single source of truth** for all maintenance operations w
   🔗 GitHub: https://github.com/darshanpurohit20
 
 - **Atharv Kulkarni**  
-  🔗 GitHub: https://github.com/Atharvkulkarni
+  🔗 GitHub: https://github.com/theonlyoneH
 
 - **Ashutosh Shetty**  
-  🔗 GitHub: https://github.com/AshutoshShetty
+  🔗 GitHub: https://github.com/Hiit146
 
 
