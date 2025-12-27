@@ -23,7 +23,7 @@
 
 ## About The Project
 
-GearGuard revolutionizes how manufacturing companies manage equipment maintenance. Built as a comprehensive Odoo-style ERP module, it seamlessly connects **Equipment** (assets), **Teams** (technicians), and **Requests** (maintenance work) with intelligent automation and real-time collaboration [web:71][web:73].
+GearGuard revolutionizes how manufacturing companies manage equipment maintenance. Built as a comprehensive Odoo-style ERP module, it seamlessly connects **Equipment** (assets), **Teams** (technicians), and **Requests** (maintenance work) with intelligent automation and real-time collaboration
 
 ###  Problem Statement
 
