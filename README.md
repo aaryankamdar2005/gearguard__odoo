@@ -1,11 +1,16 @@
- 
 <div align="left">
-<h1>GearGuard: The Ultimate Maintenance Tracker</h1>
-<img src="https://github.com/user-attachments/assets/38d1eb65-8a81-4922-b87b-896851290552" width="300" alt="GearGuard Logo"/>
-
-
-
+  <h1>GearGuard: The Ultimate Maintenance Tracker</h1>
+  <img 
+    src="https://github.com/user-attachments/assets/38d1eb65-8a81-4922-b87b-896851290552" 
+    width="300" 
+    alt="GearGuard Logo"
+  />
 </div>
+  🔗 <strong>Live Demo:</strong>  
+  <a href="https://gearguard-oddo.vercel.app/" target="_blank">
+    https://gearguard-oddo.vercel.app/
+  </a>
+  <br> <br>
 
 
 **An intelligent Odoo-style maintenance management system for modern enterprises**
